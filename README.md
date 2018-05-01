@@ -6,19 +6,19 @@ Wollen sie es sich ansehen:
 
 # Funktionen
 1. Regrestrieren (Ohne Email Abfrage)
-..* Password wird mit dem BCRYPT gehashed.
-..* Eine Random User ID wird vergeben
-..* Und danach wird der User gespeichert.
+* Password wird mit dem BCRYPT gehashed.
+* Eine Random User ID wird vergeben
+* Und danach wird der User gespeichert.
 2. Login (Password wird gehashed und mit dem Hash verglichen)
-..* Email wird in der Datenbank gesucht.
-..* Password gehashed und verglichen
+* Email wird in der Datenbank gesucht.
+* Password gehashed und verglichen
 3. Ticket erstellen
 4. Ticket antworten
-..* Als Admin aknnst du es auch schließen
-..* Als User kannst du normal antworten
+* Als Admin aknnst du es auch schließen
+* Als User kannst du normal antworten
 5. Alle Ticket lassen sich als Admin anzeigen
 6. User kann alle seine Tickets einsehen.
-..* Die von anderen Usern nicht.
+* Die von anderen Usern nicht.
 
 # Datenbases
 
