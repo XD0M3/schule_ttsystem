@@ -12,7 +12,7 @@ include "api/url_filling.php";
 session_start();
 
 $admin = false;
-$con = new mysqli("localhost", 'root','04041977Manuela','ttsystem');
+$con = new mysqli("localhost", 'root','','ttsystem');
 $user_id = $_SESSION['user_id'];
 $con->set_charset('utf8');
 $r = $con->query("SELECT admin_id FROM admins WHERE user_id = $user_id;");
