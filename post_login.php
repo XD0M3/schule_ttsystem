@@ -20,7 +20,7 @@ if(isset($_POST['email'], $_POST['password'])){
 
     }
 
-    $con = new mysqli("localhost", 'root','04041977Manuela','ttsystem');
+    $con = new mysqli("localhost", 'root','','ttsystem');
     $con->set_charset('utf8');
 
     $result = $con->query("SELECT password,id,name FROM logins WHERE email = '$email';");
