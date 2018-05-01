@@ -26,7 +26,7 @@ if(isset($_POST['email'], $_POST['name'], $_POST['password'])){
     }
     $hashedPw = password_hash($unhashedPW, PASSWORD_BCRYPT);
 
-    $con = new mysqli("localhost", 'root','04041977Manuela','ttsystem');
+    $con = new mysqli("localhost", 'root','','ttsystem');
     $con->set_charset('utf8');
 
     $boolean = true;
