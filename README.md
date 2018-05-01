@@ -22,6 +22,8 @@ Wollen sie es sich ansehen:
 
 # Datenbases
 
+Leider sind die Datenbanke nicht ganz so geworden, wie ich es wollte, aber ein Projekt lebt mit seinem Ersteller :)
+
 ## Logins (Example)
 |**Userid**|**Email**|**Name**|**Hashed PW**|
 |---|---|---|---|
@@ -39,27 +41,6 @@ Wollen sie es sich ansehen:
 |---|---|---|
 |     4637 |  672869 | test test      |
 |     4738 |  357405 | Max Mustermann |
-
-## Tickets (Example)
-|    3696521 | testst                         |  357405 | ss         | drpc    | tteets                                  | ["","Ticket wird geschlossen!"]                                                                                                                                             | N      |      NULL | 2018-04-05 08:45:35 | Y      |
-|    4275914 | Test                           |  357405 | test 2tt   | drpc    | ss
-
-s
-s
-
-s
-s                      | [""]                                                                                                                                                                        | N      |      NULL | 2018-04-17 08:40:38 | Y      |
-|    5149543 | du bist scheise                |  743347 | Hollabrunn | werk    | Was soll diese. du nix gute. du schaisn | ["fhgf","herst du zigeuna
-","Gib mir ticket herst
-","Wos is herst","Hallo Dominik GrUEnberger,
-
-Ticket abgeschlossen
-
-Best regards,
-XD0M3","Jetzt aber wirklich :D"] | N      |    357405 | 2018-04-17 10:47:15 | Y      |
-|    6629397 | Jdkdkek                        |  357405 | Keldkel    | anderes | Jekekekwlmfbfnenen                      | ["Hallo","Test","Op","Is it still working?","Hallo?","Antwortet mir auch einmal wer?","Hallooooooooooooooooooooo?"]                                                         | N      |      NULL | 2018-04-17 08:56:01 | N      |
-|    9438472 | Hiast du Schwuchtel gib Ticket |  743347 | Hollabrunn | anderes | Gib Ticketz heaast i Brauch des         | []                                                                                                                                                                          | N      |    357405 | 2018-04-17 10:31:46 | N      |
-
 
 # Kontakt
 
