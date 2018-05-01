@@ -1,7 +1,6 @@
 # Schulprojekt - Abgabe 01.05.2018
 
-**Ersteller**
-Dominik 'XD0M3' Grünberger
+**Ersteller:** Dominik 'XD0M3' Grünberger
 
 # Website
 Wollen sie es sich ansehen:
