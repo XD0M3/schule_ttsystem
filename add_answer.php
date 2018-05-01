@@ -11,7 +11,7 @@ if(isset($_POST['support_id'], $_POST['desc'])){
     $id = $_POST['support_id'];
     $antwort = $_POST['desc'];
 
-    $con = new mysqli("localhost","root", "04041977Manuela","ttsystem");
+    $con = new mysqli("localhost","root", "","ttsystem");
     $con->set_charset("utf8");
 
     $result = $con->query("SELECT answers FROM tickets WHERE support_id = $id");
