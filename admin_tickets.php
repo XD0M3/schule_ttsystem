@@ -23,7 +23,7 @@ if(!isset($_SESSION['user_id'])){
     header("Location: " . urls("/schulprojekt/"));
 }
 $user_id = $_SESSION['user_id'];
-$con = new mysqli("localhost", 'root','04041977Manuela','ttsystem');
+$con = new mysqli("localhost", 'root','','ttsystem');
 $r = $con->query("SELECT admin_id FROM admins WHERE user_id = $user_id");
 if($r->num_rows > 0){
     $admin = true;
