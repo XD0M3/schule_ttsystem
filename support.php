@@ -13,7 +13,7 @@ if(!isset($_SESSION['user_id'])){
     header("Location: " . urls("/schulprojekt/"));
 }
 
-$con = new mysqli("localhost", 'root','04041977Manuela','ttsystem');
+$con = new mysqli("localhost", 'root','','ttsystem');
 $con->set_charset('utf8');
 $id = $_GET['id'];
 $user_id = $_SESSION['user_id'];
