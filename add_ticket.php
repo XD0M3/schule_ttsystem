@@ -17,7 +17,7 @@ if(isset($_POST['betreff'], $_POST['ort'], $_POST['art'], $_POST['desc'])){
     $art = $_POST['art'];
     $content = $_POST['desc'];
 
-    $con = new mysqli("localhost","root", "04041977Manuela","ttsystem");
+    $con = new mysqli("localhost","root", "","ttsystem");
     $con->set_charset("utf8");
 
     if($subject == ""){
