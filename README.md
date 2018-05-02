@@ -46,6 +46,14 @@ Leider sind die Datenbanke nicht ganz so geworden, wie ich es wollte, aber ein P
 |     4637 |  672869 | test test      |
 |     4738 |  357405 | Max Mustermann |
 
+# Verwenden
+1. *Git* repository clonen
+2. Auf apache Server laden
+3. *SQL* Script ausführen
+4. Benutzer Name und passwort der Datenbank überall eintragen
+5. Apache Server starten
+6. Aufrufen und loslegen.
+
 # Kontakt
 
 Bei fragen einfach an mich, entweder in der Schule oder per email an
