@@ -2,6 +2,8 @@
 
 **Ersteller:** Dominik 'XD0M3' Grünberger
 
+***Disclaimer: Einfaches Git Clonen wird nicht funktionieren***
+
 # Website
 Wollen sie es sich ansehen:
 [XD0M3's Website](https://xd0m3.eu/schulprojekt/)
